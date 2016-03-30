@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.22.2_fdcdfba0d5193cc6e0ba01e5ba366daff5a732fb.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0_568763630910e1eb4ba22bc6a5400cd0e5129444.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0_685f0c597d4a34f660d8b48fa4a99ff95b894f84.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_c578ae11977e4c4101cbafcccc06eb039cbe7c08.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_c647e3a059c2cc0f7326ab66cf77b92192e0e76b.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.8.1_02e17775540baae424bbbd0f268b6005eb198587.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_5f9d813c660a1ef4d6db1879d709f7815f08901d.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_ebcd8dd624492198f3ed4ef1bd1dca6a0659ddbd.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_d7baebbce77e823135aa7ae98c8b9cec78280de7.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0_1b43eeab55e2e0a69f8483c05e5999bebcf6e69d.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.8.1_37f41b422b6af31bc488ca7e454edbbe0667666d.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.3.0_b5a7c48aef72fdc305c025333fd44073c3298e75.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_7e124a318fe909f897c245586091644308e4449c.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_def37e70bfa0218cc4948a4d7a17d7b4eebea13a.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0_f166f96d84b251bda8906b553ccdc5d20e9319fe.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_af1e52a1e1df5ddeca15006238660d59d9796326.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/psm/react-native-splashscreen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e98d23a8db97a81fca2111fd4a3981642fb593e1">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/psm-react-native-splashscreen-unspecified_3e4e6c0ce8d2dafe373c72245a5f55115530e81d.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0_4b9f413e9353ce2e3e4467f758417972829de60d.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_bde0ffbe3b48f68160ddb8d62248ddaa56718afd.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_d8826338179429e41c02a7c968b17c134af917d2.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.3.0_74a3612f9f4ea49b2bbe216eebe033cc869f5dca.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.6.0_b7a48666ced87ec7ddf881186e9782fbe45e4e80.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/psm/react-native-google-signin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7142ef0baf1127bd948c383c3e711072b584cc31">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/psm-react-native-google-signin-unspecified_ef62e6764b52ee9fd0b71ee02b2d5febdc57daca.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/psm/react-native-facebook-login/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba588a353c9c51f5f3226dd0fa630f582df736b4">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/psm-react-native-facebook-login-unspecified_47f1f2bc338395ed9881d9b51197cf1c7c8f519c.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2_c3ad5090ebb9bda24c27e9300d2b3a9b9b0123c9.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.8.1_33b6749105cbf4cbfe820cab66417b98f56eb973.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp-0.8.1_cbf86ed2ee8c4bc64f83c95cb7d3af1d5d630bd9.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_aa805861b979051058b21d11bb952784dc25abad.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.3.0_f8dcc60d1cbc1298d5e410f4d5cf9d81661bad91.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.8.1_44b0a2fc0e827c12a0911573168b65c1712f6ae2.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/psm/react-native-push-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82ece0578ca7817c47567eb3a2cc876682223f47">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/psm-react-native-push-notification-unspecified_0a07f491a06868809907d14ad4d8140e82debe41.jar" />
+    </item>
+    <item
+        jar="/home/putusudarma/psm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="/home/putusudarma/psm/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.3.0_9fd47a334e77d6d07161cb5acf3f3872165e48ad.jar" />
+    </item>
+
+</items>
