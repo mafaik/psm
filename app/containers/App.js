@@ -1,6 +1,6 @@
 'use strict';
 
-import React, { Component, DrawerLayoutAndroid, StyleSheet } from 'react-native';
+import React, { Component, View, DrawerLayoutAndroid, StyleSheet } from 'react-native';
 import { COLOR, IconToggle, Icon } from 'react-native-material-design';
 import {bindActionCreators} from 'redux';
 import { connect } from 'react-redux';
@@ -11,9 +11,11 @@ import Router from 'react-native-simple-router';
 
 import BackButton from '../components/BackButton';
 import TopMenu from '../components/icons/TopMenu';
+import CloseMenu from '../components/icons/CloseMenu';
 import Menu from '../components/icons/Menu';
 import LeftNav from '../components/LeftNav';
 // import News from '../components/News';
+import NewsPage from '../components/NewsPage';
 import LoginPage from '../components/LoginPage';
 
 class App extends React.Component {
@@ -57,11 +59,12 @@ class App extends React.Component {
     const {drawer,navigator} = this.state;
     const firstRoute = {
       name: 'News',
-      component: LoginPage,
-      rightCorner: TopMenu,
+      component: NewsPage,
+      passProps: { drawer: this.state.drawer },
+      rightCorner: CloseMenu,
       leftCorner: () => {
         return (
-          <Menu drawer={this.state.drawer} />
+          <View></View>
         )
       }
     }
